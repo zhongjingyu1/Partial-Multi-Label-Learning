@@ -25,4 +25,4 @@
 - 2024-Information Sciences - Learning shared and non-redundant label-specific features for partial multi-label classification. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0020025523015025) 
 * 2021-Information Sciences - Noisy label tolerance: A new perspective of Partial Multi-Label Learning. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0020025520309294) 
 - 2020-AAAI - Multi-View Partial Multi-label Learning with Graph-based Disambiguation. [[Paper]](http://palm.seu.edu.cn/zhangml/files/AAAI'20b.pdf) [[Code]](https://palm.seu.edu.cn/zhangml/) 
-
+* 2022-KBS - Partial multi-label learning based on sparse asymmetric label correlations. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0950705122002696) 
