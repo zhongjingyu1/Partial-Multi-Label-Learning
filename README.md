@@ -29,3 +29,5 @@
 - 2022-IJCNN - Partial Multi-Label Feature Selection. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9892133)
 * 2023-Information Sciences - Partial multi-label feature selection via subspace optimization. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0020025523011416)
 - 2024-TNNLS - Partial Multilabel Learning Using Noise-Tolerant Broad Learning System With Label Enhancement and Dimensionality Reduction. [[Paper]](https://xplorestaging.ieee.org/document/10416802) [[Code]](https://markwalton-tu.github.io/) 
+* 2020-ICDM - Partial Multi-label Learning using Label Compression. [[Paper]](https://repository.kaust.edu.sa/server/api/core/bitstreams/eab71b27-5fb0-4ccb-b19f-ac8a393b377d/content)
+- 2023-ICME - Partial multi-label learning: exploration of binary ground-truth labels. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10219613/footnotes#footnotes)
