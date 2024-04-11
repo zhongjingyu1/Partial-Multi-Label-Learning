@@ -20,3 +20,4 @@
 - 2022-TMM - Global-Local Label Correlation for Partial Multi-Label Learning. [[Paper]](https://ieeexplore.ieee.org/document/9343691)
 * 2023-IJCNN - Landmark-based Partial Multi-label Learning with Noise Processing. [[Paper]](https://ieeexplore.ieee.org/document/10191270)
 * 2024-Information Sciences - Learning shared and non-redundant label-specific features for partial multi-label classification. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0020025523015025) 
+* 2023-Applied Intelligence - Learning with partial multi-labeled data by leveraging low-rank constraint and decomposition. [[Paper]](https://link.springer.com/article/10.1007/s10489-022-03989-0) 
