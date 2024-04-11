@@ -38,3 +38,8 @@
 * 2021-KBS - Partial multi-label learning with mutual teaching. [[Paper]](https://www.sciencedirect.com/science/article/pii/S095070512030753X)
 - 2021-KDD - Partial Multi-Label Learning with Meta Disambiguation. [[Paper]](http://www.xiemk.pro/publication/kdd21-pmlmd.pdf)
 * 2023-KBS - Partial multi-label learning via three-way decision-based tri-training. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0950705123004938)
+- 2022-KBS - Partial multi-label learning via specific label disambiguation. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0950705122005391)
+* 2021-IJCAI - Partial Multi-Label Optimal Margin Distribution Machine. [[Paper]](https://www.ijcai.org/proceedings/2021/0303.pdf)
+- 2023-NIPS - Partial Multi-Label Learning with Probabilistic Graphical Disambiguation. [[Paper]](http://palm.seu.edu.cn/zhangml/files/NeurIPS'23c.pdf) [[Code]](https://palm.seu.edu.cn/zhangml/)
+* 2023-Applied Intelligence - Learning with partial multi-labeled data by leveraging low-rank constraint and decomposition. [[Paper]](https://link.springer.com/article/10.1007/s10489-022-03989-0)
+- 2024-Information Sciences - PML-ED: A method of partial multi-label learning by using encoder-decoder framework and exploring label correlation. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0020025524000781)
