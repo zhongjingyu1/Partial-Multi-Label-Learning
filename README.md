@@ -46,3 +46,7 @@
 * 2020-IJCAI - Recovering Accurate Labeling Information from Partially Valid Data for Effective Multi-Label Learning. [[Paper]](https://arxiv.org/pdf/2006.11488.pdf)
 - 2023-DSAA - ProPML: Probability Partial Multi-label Learning. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10302620)
 * 2023-TCYB - Prior Knowledge Regularized Self-Representation Model for Partial Multilabel Learning. [[Paper]](https://ieeexplore.ieee.org/document/9533180)
+- 2021-NIPS - Understanding Partial Multi-label Learning via Mutual Information. [[Paper]](https://proceedings.neurips.cc/paper/2021/file/217c0e01c1828e7279051f1b6675745d-Paper.pdf)
+* 2020-ICDM - Semi-Supervised Partial Multi-Label Learning. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9338377)
+- 2021-PRL - Semi-supervised partial multi-label classification with low-rank and manifold constraints. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0167865521002828)
+* 2022-PR - Semi-supervised partial multi-label classification via consistency learning. [[Paper]](https://www.sciencedirect.com/science/article/pii/S003132032200320X)
