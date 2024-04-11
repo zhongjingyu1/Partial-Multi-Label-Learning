@@ -10,3 +10,6 @@
 * 2021-TNNLS - Progressive Enhancement of Label Distributions for Partial Multilabel Learning. [[Paper]](https://ieeexplore.ieee.org/document/9615493)
 - 2022-TPAMI - Partial Multi-Label Learning With Noisy Label Identification [[Paper]](https://ieeexplore.ieee.org/abstract/document/9354590) [[Code]](http://milkxie.github.io/code/PMLNIcode.zip)
 * 2023-TNNLS - Learning Accurate Label-Specific Features From Partially Multilabeled Data [[Paper]](https://ieeexplore.ieee.org/document/10043663)
+- 2022-TPAMI - CCMN: A General Framework for Learning With Class-Conditional Multi-Label Noise. [[Paper]](https://ieeexplore.ieee.org/document/9674931)
+* 2021-AAAI - Adversarial Partial Multi-Label Learning with Label Disambiguation.
+- 2024-KBS - A two-stage multi-view partial multi-label learning for enhanced disambiguation.
