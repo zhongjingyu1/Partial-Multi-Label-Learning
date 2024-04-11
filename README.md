@@ -16,5 +16,5 @@
 * 2023-TNNLS - Learning Accurate Label-Specific Features From Partially Multilabeled Data. [[Paper]](https://ieeexplore.ieee.org/document/10043663)
 - 2023-TMM - Dual Noise Elimination And Dynamic Label Correlation Guided Partial Multi-label Learning. [[Paper]](https://ieeexplore.ieee.org/document/10336552/authors)
 * 2024-KBS - A two-stage multi-view partial multi-label learning for enhanced disambiguation. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0950705124003150)
-
+* 2022-PAAP - Graph-based Multi-view Partial Multi-label Learning. [[Paper]](https://ieeexplore.ieee.org/document/10010429/)
 
