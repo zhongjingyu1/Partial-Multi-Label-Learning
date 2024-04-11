@@ -18,3 +18,4 @@
 * 2024-KBS - A two-stage multi-view partial multi-label learning for enhanced disambiguation. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0950705124003150)
 * 2022-PAAP - Graph-based Multi-view Partial Multi-label Learning. [[Paper]](https://ieeexplore.ieee.org/document/10010429/)
 - 2022-TMM - Global-Local Label Correlation for Partial Multi-Label Learning. [[Paper]](https://ieeexplore.ieee.org/document/9343691)
+* 2023-IJCNN - Landmark-based Partial Multi-label Learning with Noise Processing. [[Paper]](https://ieeexplore.ieee.org/document/10191270)
