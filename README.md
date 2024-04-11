@@ -34,3 +34,7 @@
 * 2024-KBS - Partial multi-label learning via semi-supervised subspace collaboration. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0950705124000790)
 - 2024-KBS - Partial multi-label learning via robust feature selection and relevance fusion optimization. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0950705123011139)
 * 2022-AAAI - Partial Multi-Label Learning via Large Margin Nearest Neighbour Embeddings. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/20628/version/18925/20387)
+- 2021-KIS - Partial multi-label learning with noisy side information. [[Paper]](https://link.springer.com/article/10.1007/s10115-020-01527-3)
+* 2021-KBS - Partial multi-label learning with mutual teaching. [[Paper]](https://www.sciencedirect.com/science/article/pii/S095070512030753X)
+- 2021-KDD - Partial Multi-Label Learning with Meta Disambiguation. [[Paper]](http://www.xiemk.pro/publication/kdd21-pmlmd.pdf)
+* 2023-KBS - Partial multi-label learning via three-way decision-based tri-training. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0950705123004938)
