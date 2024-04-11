@@ -19,3 +19,4 @@
 * 2022-PAAP - Graph-based Multi-view Partial Multi-label Learning. [[Paper]](https://ieeexplore.ieee.org/document/10010429/)
 - 2022-TMM - Global-Local Label Correlation for Partial Multi-Label Learning. [[Paper]](https://ieeexplore.ieee.org/document/9343691)
 * 2023-IJCNN - Landmark-based Partial Multi-label Learning with Noise Processing. [[Paper]](https://ieeexplore.ieee.org/document/10191270)
+* 2024-Information Sciences - Learning shared and non-redundant label-specific features for partial multi-label classification. [[Paper]]([https://ieeexplore.ieee.org/document/10191270](https://www.sciencedirect.com/science/article/pii/S0020025523015025)) 
