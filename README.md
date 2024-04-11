@@ -23,4 +23,4 @@
 - 2023-TKDE - Multi-View Partial Multi-Label Learning via Graph-Fusion-Based Label Enhancement. [[Paper]](https://ieeexplore.ieee.org/document/9999508)
 * 2024-KBS - A two-stage multi-view partial multi-label learning for enhanced disambiguation. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0950705124003150)
 - 2024-Information Sciences - Learning shared and non-redundant label-specific features for partial multi-label classification. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0020025523015025) 
-
+* 2021-Information Sciences - Noisy label tolerance: A new perspective of Partial Multi-Label Learning. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0020025520309294) 
