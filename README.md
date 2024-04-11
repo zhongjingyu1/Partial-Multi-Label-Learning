@@ -31,3 +31,6 @@
 - 2024-TNNLS - Partial Multilabel Learning Using Noise-Tolerant Broad Learning System With Label Enhancement and Dimensionality Reduction. [[Paper]](https://xplorestaging.ieee.org/document/10416802) [[Code]](https://markwalton-tu.github.io/) 
 * 2020-ICDM - Partial Multi-label Learning using Label Compression. [[Paper]](https://repository.kaust.edu.sa/server/api/core/bitstreams/eab71b27-5fb0-4ccb-b19f-ac8a393b377d/content)
 - 2023-ICME - Partial multi-label learning: exploration of binary ground-truth labels. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10219613/footnotes#footnotes)
+* 2024-KBS - Partial multi-label learning via semi-supervised subspace collaboration. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0950705124000790)
+- 2024-KBS - Partial multi-label learning via robust feature selection and relevance fusion optimization. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0950705123011139)
+* 2022-AAAI - Partial Multi-Label Learning via Large Margin Nearest Neighbour Embeddings. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/20628/version/18925/20387)
