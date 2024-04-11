@@ -1,6 +1,6 @@
 # Partial-Multi-Label-Learning
     A curated list of resources for Partial-Multi-Label-Learning
-![alt](https://github.com/zhongjingyu1/Partial-Multi-Label-Learning/edit/main/Number of papers published on partial multi-label learning.eps)
+![alt](https://github.com/zhongjingyu1/Partial-Multi-Label-Learning/edit/main/Number_of_papers_published_on_partial_multi-label_learning)
 ## Papers & Code
 * 2018-AAAI - Partial Multi-Label Learning. [[Paper]](https://aaai.org/papers/11644-partial-multi-label-learning/)
 - 2018-ICDM - Feature-induced Partial Multi-label Learning. [[Paper]](https://cs.gmu.edu/~carlotta/publications/ICDM18_fPML.pdf) 
