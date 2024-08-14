@@ -59,3 +59,4 @@
 - 2024-KIS - Few-shot partial multi-label learning with synthetic features network. [[Paper]](https://link.springer.com/article/10.1007/s10115-023-01988-2)
 * 2024-TMM - Negative Label and Noise Information Guided Disambiguation for Partial Multi-Label Learning. [[Paper]](https://ieeexplore.ieee.org/document/10533859) [[Code]](https://github.com/zhongjingyu1/Negative-Label-and-Noise-Feature-Guided-Disambiguation-for-Partial-Multi-Label-Learning)
 - 2024-KDD - Noisy Label Removal for Partial Multi-Label Learning [[Code]](https://github.com/Yangfc-ML/NLR)
+* 2024-MIR - A Deep Model for Partial Multi-label Image Classification with Curriculum-based Disambiguation  [[Paper]](https://link.springer.com/article/10.1007/s11633-023-1439-3) [[Code]](https://github.com/xiemk/PML-CDCR?tab=readme-ov-file)
