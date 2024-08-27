@@ -1,6 +1,16 @@
 # Partial-Multi-Label-Learning
     A curated list of resources for Partial-Multi-Label-Learning
 ## Papers & Code
+# Awesome Noisy Long-Tailed Learning
+
+|  Title   | Venue  | Year| Code|
+|  ----  | ----  |----  |----  |
+|[Partial Multi-Label Learning](https://aaai.org/papers/11644-partial-multi-label-learning/)|AAAI|2018||
+|[Feature-induced Partial Multi-label Learning](https://cs.gmu.edu/~carlotta/publications/ICDM18_fPML.pdf)  | ICDM | 2018||
+|[Discriminative and Correlative Partial Multi-Label Learning]([https://arxiv.org/pdf/2302.05080](https://cs.gmu.edu/~carlotta/publications/ICDM18_fPML.pdf))  | IJCAI |2019||
+|[Partial Multi-Label Learning by Low-Rank and Sparse Decomposition](https://aaai.org/papers/05016-partial-multi-label-learning-by-low-rank-and-sparse-decomposition/)|AAAI|2019||
+|[Discriminatively relabel for partial multi-label learning](https://ieeexplore.ieee.org/document/8970871) |ICDM |2019||
+
 * 2018-AAAI - Partial Multi-Label Learning. [[Paper]](https://aaai.org/papers/11644-partial-multi-label-learning/)
 - 2018-ICDM - Feature-induced Partial Multi-label Learning. [[Paper]](https://cs.gmu.edu/~carlotta/publications/ICDM18_fPML.pdf) 
 * 2019-IJCAI - Discriminative and Correlative Partial Multi-Label Learning [[Paper]](https://www.ijcai.org/Proceedings/2019/0512.pdf)
