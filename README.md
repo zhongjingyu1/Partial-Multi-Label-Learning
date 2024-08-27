@@ -2,7 +2,7 @@
     A curated list of resources for Partial-Multi-Label-Learning
 ## Papers & Code
 # Awesome Noisy Long-Tailed Learning
-# 2018&2019
+### 2018&2019
 |  Title   | Venue  | Year| Code|
 |  ----  | ----  |----  |----  |
 |[Partial Multi-Label Learning](https://aaai.org/papers/11644-partial-multi-label-learning/)|AAAI|2018||
