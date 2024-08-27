@@ -21,18 +21,22 @@
 | [Recovering Accurate Labeling Information from Partially Valid Data for Effective Multi-Label Learning](https://arxiv.org/pdf/2006.11488.pdf) | IJCAI |2020  ||
 | [Semi-Supervised Partial Multi-Label Learning](https://ieeexplore.ieee.org/abstract/document/9338377) | ICDM |2020  ||
 | [Partial Multi-label Learning with Label and Feature Collaboration](https://link.springer.com/chapter/10.1007/978-3-030-59410-7_41) | DASFAA |2020  ||
-| []() | KDD |2020  |[Code]()|
+### 2021
+|  Title   | Venue  | Year| Code|
+|  ----  | ----  |----  |----  |
+| [Adversarial Partial Multi-Label Learning with Label Disambiguation](https://cdn.aaai.org/ojs/17264/17264-13-20758-1-2-20210518.pdf) | AAAI |2021  ||
+| [Partial Multi-Label Learning via Credible Label Elicitation](https://ieeexplore.ieee.org/document/9057438) | TPAMI |2021  |[Code](https://palm.seu.edu.cn/zhangml/)|
+| [Progressive Enhancement of Label Distributions for Partial Multilabel Learning](https://ieeexplore.ieee.org/document/9615493) | TNNLS |2021  ||
+| [Understanding Partial Multi-label Learning via Mutual Information](https://proceedings.neurips.cc/paper/2021/file/217c0e01c1828e7279051f1b6675745d-Paper.pdf) | NeurIPS |2021  ||
+| [Semi-supervised partial multi-label classification with low-rank and manifold constraints](https://www.sciencedirect.com/science/article/pii/S0167865521002828) | PRL |2021  ||
+| [Noisy label tolerance: A new perspective of Partial Multi-Label Learning](https://www.sciencedirect.com/science/article/pii/S0020025520309294) | IS |2021  ||
+| [Partial multi-label learning with noisy side information](https://link.springer.com/article/10.1007/s10115-020-01527-3) | KIS |2021  ||
+| [Partial multi-label learning with mutual teaching](https://www.sciencedirect.com/science/article/pii/S095070512030753X) | KBS |2021  ||
+| [Partial Multi-Label Learning with Meta Disambiguation](http://www.xiemk.pro/publication/kdd21-pmlmd.pdf) | KDD |2021  ||
+| [Partial Multi-Label Optimal Margin Distribution Machine](https://www.ijcai.org/proceedings/2021/0303.pdf) | IJCAI |2021  ||
+| []() | KDD |2021  |[Code]()|
 
-- 2021-AAAI - Adversarial Partial Multi-Label Learning with Label Disambiguation. [[Paper]](https://aaai.org/papers/10568-adversarial-partial-multi-label-learning-with-label-disambiguation/)
-* 2021-TPAMI - Partial Multi-Label Learning via Credible Label Elicitation. [[Paper]](https://ieeexplore.ieee.org/document/9057438) [[Code]](https://palm.seu.edu.cn/zhangml/)
-- 2021-TNNLS - Progressive Enhancement of Label Distributions for Partial Multilabel Learning. [[Paper]](https://ieeexplore.ieee.org/document/9615493)
-* 2021-NIPS - Understanding Partial Multi-label Learning via Mutual Information. [[Paper]](https://proceedings.neurips.cc/paper/2021/file/217c0e01c1828e7279051f1b6675745d-Paper.pdf)
-- 2021-PRL - Semi-supervised partial multi-label classification with low-rank and manifold constraints. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0167865521002828)
-* 2021-Information Sciences - Noisy label tolerance: A new perspective of Partial Multi-Label Learning. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0020025520309294) 
-- 2021-KIS - Partial multi-label learning with noisy side information. [[Paper]](https://link.springer.com/article/10.1007/s10115-020-01527-3)
-* 2021-KBS - Partial multi-label learning with mutual teaching. [[Paper]](https://www.sciencedirect.com/science/article/pii/S095070512030753X)
-- 2021-KDD - Partial Multi-Label Learning with Meta Disambiguation. [[Paper]](http://www.xiemk.pro/publication/kdd21-pmlmd.pdf)
-* 2021-IJCAI - Partial Multi-Label Optimal Margin Distribution Machine. [[Paper]](https://www.ijcai.org/proceedings/2021/0303.pdf)
+
 - 2022-KBS - Partial multi-label learning via specific label disambiguation. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0950705122005391)
 * 2022-PAAP - Graph-based Multi-view Partial Multi-label Learning. [[Paper]](https://ieeexplore.ieee.org/document/10010429/)
 - 2022-KBS - Partial multi-label learning based on sparse asymmetric label correlations. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0950705122002696) 
