@@ -34,7 +34,6 @@
 | [Partial multi-label learning with mutual teaching](https://www.sciencedirect.com/science/article/pii/S095070512030753X) | KBS |2021  ||
 | [Partial Multi-Label Learning with Meta Disambiguation](http://www.xiemk.pro/publication/kdd21-pmlmd.pdf) | KDD |2021  ||
 | [Partial Multi-Label Optimal Margin Distribution Machine](https://www.ijcai.org/proceedings/2021/0303.pdf) | IJCAI |2021  ||
-| []() | KDD |2021  |[Code]()|
 ### 2022
 |  Title   | Venue  | Year| Code|
 |  ----  | ----  |----  |----  |
