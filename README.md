@@ -84,3 +84,5 @@
 | [Attention-Induced Embedding Imputation for Incomplete Multi-View Partial Multi-Label Classification](https://ojs.aaai.org/index.php/AAAI/article/view/29293)|AAAI|2024|-|
 | [WPML3CP: Wasserstein Partial Multi-Label Learning with Dual Label Correlation Perspectives](https://www.ijcai.org/proceedings/2024/0495.pdf)|IJCAI|2024|
 | [UNM: A Universal Approach for Noisy Multi-Label Learning](https://ieeexplore.ieee.org/abstract/document/10460124)|TKDE|2024|-|
+| [A Deep Model for Partial Multi-label Image Classification with Curriculum-based Disambiguation](https://link.springer.com/article/10.1007/s11633-023-1439-3)|MIR|2024|-|
+| [Partial Multi-View Multi-Label Classification via Semantic Invariance Learning and Prototype Modeling](https://openreview.net/forum?id=5ap1MmUqO6)|ICML|2024|-|
