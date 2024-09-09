@@ -77,6 +77,6 @@
 | [Partial Multilabel Learning Using Noise-Tolerant Broad Learning System With Label Enhancement and Dimensionality Reduction](https://xplorestaging.ieee.org/document/10416802) | TNNLS |2024  |[Code](https://markwalton-tu.github.io/)|
 | [Few-shot partial multi-label learning with synthetic features network](https://link.springer.com/article/10.1007/s10115-023-01988-2) | KIS |2024  |-|
 | [Negative Label and Noise Information Guided Disambiguation for Partial Multi-Label Learning](https://ieeexplore.ieee.org/document/10533859) | TMM |2024  |[Code](https://github.com/zhongjingyu1/Negative-Label-and-Noise-Feature-Guided-Disambiguation-for-Partial-Multi-Label-Learning)|
-| [Noisy Label Removal for Partial Multi-Label Learning](https://dl.acm.org/doi/pdf/10.1145/3637528.3671677) | KDD |2024  |[Code]([https://markwalton-tu.github.io/](https://github.com/Yangfc-ML/NLR))|
+| [Noisy Label Removal for Partial Multi-Label Learning](https://dl.acm.org/doi/pdf/10.1145/3637528.3671677) | KDD |2024  |[Code](https://github.com/Yangfc-ML/NLR)|
 | [Multi-source partial multi-label learning via tensor decomposition and nonconvex regularization](https://www.sciencedirect.com/science/article/pii/S1566253524003610)| IF|2024|-|
 | [Partial Multi-label Learning Based On Near-Far Neighborhood Label Enhancement And Nonlinear Guidance](https://openreview.net/pdf?id=qZwp41zYjF)| ACM MM |2024|-|
