@@ -46,7 +46,7 @@
 | [CCMN: A General Framework for Learning With Class-Conditional Multi-Label Noise](https://ieeexplore.ieee.org/document/9674931) | TPAMI |2022  |[Code](https://xiemk.github.io/)|
 | [Semi-supervised partial multi-label classification via consistency learning](https://www.sciencedirect.com/science/article/pii/S003132032200320X) | PR |2022  |-|
 | [Partial Multi-Label Learning via Large Margin Nearest Neighbour Embeddings](https://ojs.aaai.org/index.php/AAAI/article/download/20628/version/18925/20387) | AAAI |2022  |-|
-| [A Deep Model for Partial Multi-label Image Classification with Curriculum Based Disambiguation](https://www.semanticscholar.org/paper/A-Deep-Model-for-Partial-Multi-Label-Image-with-Sun-Xie/74fab1d21cad37b2c4423b505151efd69f092bee) | MIR |2022  |[Code](https://github.com/xiemk/PML-CDCR)|
+| [A Deep Model for Partial Multi-label Image Classification with Curriculum Based Disambiguation](https://link.springer.com/article/10.1007/s11633-023-1439-3) | MIR |2022  |[Code](https://github.com/xiemk/PML-CDCR)|
 ### 2023
 |  Title   | Venue  | Year| Code|
 |  ----  | ----  |----  |----  |
@@ -84,5 +84,4 @@
 | [Attention-Induced Embedding Imputation for Incomplete Multi-View Partial Multi-Label Classification](https://ojs.aaai.org/index.php/AAAI/article/view/29293)|AAAI|2024|-|
 | [WPML3CP: Wasserstein Partial Multi-Label Learning with Dual Label Correlation Perspectives](https://www.ijcai.org/proceedings/2024/0495.pdf)|IJCAI|2024|
 | [UNM: A Universal Approach for Noisy Multi-Label Learning](https://ieeexplore.ieee.org/abstract/document/10460124)|TKDE|2024|-|
-| [A Deep Model for Partial Multi-label Image Classification with Curriculum-based Disambiguation](https://link.springer.com/article/10.1007/s11633-023-1439-3)|MIR|2024|-|
 | [Partial Multi-View Multi-Label Classification via Semantic Invariance Learning and Prototype Modeling](https://openreview.net/forum?id=5ap1MmUqO6)|ICML|2024|-|
