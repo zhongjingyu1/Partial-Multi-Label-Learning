@@ -32,7 +32,7 @@
 | [Noisy label tolerance: A new perspective of Partial Multi-Label Learning](https://www.sciencedirect.com/science/article/pii/S0020025520309294) | IS |2021  |-|
 | [Partial multi-label learning with noisy side information](https://link.springer.com/article/10.1007/s10115-020-01527-3) | KIS |2021  |-|
 | [Partial multi-label learning with mutual teaching](https://www.sciencedirect.com/science/article/pii/S095070512030753X) | KBS |2021  |-|
-| [Partial Multi-Label Learning with Meta Disambiguation](http://www.xiemk.pro/publication/kdd21-pmlmd.pdf) | KDD |2021  |-|
+| [Partial Multi-Label Learning with Meta Disambiguation](https://xiemk.github.io/publication/kdd21-pmlmd.pdf) | KDD |2021  |-|
 | [Partial Multi-Label Optimal Margin Distribution Machine](https://www.ijcai.org/proceedings/2021/0303.pdf) | IJCAI |2021  |-|
 ### 2022
 |  Title   | Venue  | Year| Code|
