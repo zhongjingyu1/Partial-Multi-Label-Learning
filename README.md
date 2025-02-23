@@ -88,3 +88,7 @@
 | [Partial Multi-Label Learning via Exploiting Instance and Label Correlations](https://dl.acm.org/doi/full/10.1145/3700879)|TKDD|2024|-|
 | [Label Disambiguation-Based Feature Selection for Partial Multi-label Learning](https://link.springer.com/chapter/10.1007/978-3-031-78183-4_17)|ICPR|2024|-|
 | [Partial multi-label learning via label-specific feature corrections](https://palm.seu.edu.cn/zhangml/files/SCIS'24.pdf)|SCIS|2024|[Code](https://palm.seu.edu.cn/zhangml/files/PASE.rar)|
+### 2025
+|  Title   | Venue  | Year| Code|
+|  ----  | ----  |----  |----  |
+| [Partial multi-label feature selection with feature noise](https://www.sciencedirect.com/science/article/pii/S0031320324010616#:~:text=Therefore%2C%20we%20propose%20a%20novel%20partial%20multi-label%20feature,the%20environment%20plagued%20by%20feature%20noise%20and%20partial)|PR|2025|-|
