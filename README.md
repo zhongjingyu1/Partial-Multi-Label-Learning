@@ -84,11 +84,12 @@
 | [WPML3CP: Wasserstein Partial Multi-Label Learning with Dual Label Correlation Perspectives](https://www.ijcai.org/proceedings/2024/0495.pdf)|IJCAI|2024|
 | [UNM: A Universal Approach for Noisy Multi-Label Learning](https://ieeexplore.ieee.org/abstract/document/10460124)|TKDE|2024|-|
 | [Partial Multi-View Multi-Label Classification via Semantic Invariance Learning and Prototype Modeling](https://openreview.net/forum?id=5ap1MmUqO6)|ICML|2024|-|
-| [Integrating label confidence-based feature selection for partial multi-label learning](https://www.sciencedirect.com/science/article/pii/S003132032401032X)|PR|2024|-|
 | [Partial Multi-Label Learning via Exploiting Instance and Label Correlations](https://dl.acm.org/doi/full/10.1145/3700879)|TKDD|2024|-|
 | [Label Disambiguation-Based Feature Selection for Partial Multi-label Learning](https://link.springer.com/chapter/10.1007/978-3-031-78183-4_17)|ICPR|2024|-|
-| [Partial multi-label learning via label-specific feature corrections](https://palm.seu.edu.cn/zhangml/files/SCIS'24.pdf)|SCIS|2024|[Code](https://palm.seu.edu.cn/zhangml/files/PASE.rar)|
 ### 2025
 |  Title   | Venue  | Year| Code|
 |  ----  | ----  |----  |----  |
-| [Partial multi-label feature selection with feature noise](https://www.sciencedirect.com/science/article/pii/S0031320324010616#:~:text=Therefore%2C%20we%20propose%20a%20novel%20partial%20multi-label%20feature,the%20environment%20plagued%20by%20feature%20noise%20and%20partial)|PR|2025|-|
+| [Partial multi-label feature selection with feature noise](https://www.sciencedirect.com/science/article/pii/S0031320324010616#:~:text=Therefore%2C%20we%20propose%20a%20novel%20partial%20multi-label%20feature,the%20environment%20plagued%20by%20feature%20noise%20and%20partial)|Neural Networks|2025|-|
+| [Fuzzy bifocal disambiguation for partial multi-label learning]([https://www.sciencedirect.com/science/article/pii/S0031320324010616#:~:text=Therefore%2C%20we%20propose%20a%20novel%20partial%20multi-label%20feature,the%20environment%20plagued%20by%20feature%20noise%20and%20partial](https://www.sciencedirect.com/science/article/pii/S0893608025000164))|PR|2025|-|
+| [Integrating label confidence-based feature selection for partial multi-label learning](https://www.sciencedirect.com/science/article/pii/S003132032401032X)|PR|2025|-|
+| [Partial multi-label learning via label-specific feature corrections](https://palm.seu.edu.cn/zhangml/files/SCIS'24.pdf)|SCIS|2024|[Code](https://palm.seu.edu.cn/zhangml/files/PASE.rar)|
