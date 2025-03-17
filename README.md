@@ -89,8 +89,7 @@
 ### 2025
 |  Title   | Venue  | Year| Code|
 |  ----  | ----  |----  |----  |
-| [Partial multi-label feature selection with feature noise](https://www.sciencedirect.com/science/article/pii/S0031320324010616#:~:text=Therefore%2C%20we%20propose%20a%20novel%20partial%20multi-label%20feature,the%20environment%20plagued%20by%20feature%20noise%20and%20partial)|PR|2025|-|
-| [Fuzzy bifocal disambiguation for partial multi-label learning](https://www.sciencedirect.com/science/article/pii/S0893608025000164)|Neural Networks|2025|-|
-| [Integrating label confidence-based feature selection for partial multi-label learning](https://www.sciencedirect.com/science/article/pii/S003132032401032X)|PR|2025|-|
+| [Fuzzy Bifocal Disambiguation for Partial Multi-label Learning](https://www.sciencedirect.com/science/article/pii/S0893608025000164)|Neural Networks|2025|-|
+| [Integrating Label Confidence-based Feature Selection for Partial Multi-label Learning](https://www.sciencedirect.com/science/article/pii/S003132032401032X)|PR|2025|-|
 | [Partial Multi-label Learning via Label-specific Feature Corrections](https://palm.seu.edu.cn/zhangml/files/SCIS'24.pdf)|SCIS|2025|[Code](https://palm.seu.edu.cn/zhangml/files/PASE.rar)|
 | [Partial Multi-label Feature Selection with Feature Noise](https://www.sciencedirect.com/science/article/pii/S0031320324010616)|PR|2025|[Code](https://github.com/View5U/Partial-Multi-Label-Feature-Selection-with-Feature-Noise)|
