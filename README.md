@@ -79,7 +79,7 @@
 | [Noisy Label Removal for Partial Multi-Label Learning](https://dl.acm.org/doi/pdf/10.1145/3637528.3671677) | KDD |2024  |[Code](https://github.com/Yangfc-ML/NLR)|
 | [Multi-source partial multi-label learning via tensor decomposition and nonconvex regularization](https://www.sciencedirect.com/science/article/pii/S1566253524003610)| IF|2024|-|
 | [Partial Multi-label Learning Based On Near-Far Neighborhood Label Enhancement And Nonlinear Guidance](https://dl.acm.org/doi/pdf/10.1145/3664647.3681300)| ACM MM |2024|[Code](https://github.com/CcAmbiguous/Partial-Multi-label-Learning-Based-On-Near-Far-Neighborhood-Label-Enhancement-And-Nonlinear-Guidance)|
-| [Partial multi-label feature selection via low-rank and sparse factorization with manifold learning](https://www.sciencedirect.com/science/article/pii/S0950705124005331)| KBS|2024|-|
+| [Partial multi-label feature selection via low-rank and sparse factorization with manifold learning](https://www.sciencedirect.com/science/article/pii/S0950705124005331)|KBS|2024|-|
 | [Attention-Induced Embedding Imputation for Incomplete Multi-View Partial Multi-Label Classification](https://ojs.aaai.org/index.php/AAAI/article/view/29293)|AAAI|2024|-|
 | [WPML3CP: Wasserstein Partial Multi-Label Learning with Dual Label Correlation Perspectives](https://www.ijcai.org/proceedings/2024/0495.pdf)|IJCAI|2024|
 | [UNM: A Universal Approach for Noisy Multi-Label Learning](https://ieeexplore.ieee.org/abstract/document/10460124)|TKDE|2024|-|
@@ -90,9 +90,9 @@
 |  Title   | Venue  | Year| Code|
 |  ----  | ----  |----  |----  |
 | [Fuzzy Bifocal Disambiguation for Partial Multi-label Learning](https://www.sciencedirect.com/science/article/pii/S0893608025000164)|NN|2025|-|
-| [Integrating Label Confidence-based Feature Selection for Partial Multi-label Learning](https://www.sciencedirect.com/science/article/pii/S003132032401032X)|PR|2025|-|
+| [Task-augmented Cross-view Imputation Network for Partial Multi-view Incomplete Multi-label Classification](https://www.sciencedirect.com/science/article/pii/S089360802500228X)|NN|2025|-|
 | [Partial Multi-label Learning via Label-specific Feature Corrections](https://palm.seu.edu.cn/zhangml/files/SCIS'24.pdf)|SCIS|2025|[Code](https://palm.seu.edu.cn/zhangml/files/PASE.rar)|
 | [Partial Multi-label Feature Selection with Feature Noise](https://www.sciencedirect.com/science/article/pii/S0031320324010616)|PR|2025|[Code](https://github.com/View5U/Partial-Multi-Label-Feature-Selection-with-Feature-Noise)|
-| [Task-augmented Cross-view Imputation Network for Partial Multi-view Incomplete Multi-label Classification](https://www.sciencedirect.com/science/article/pii/S089360802500228X)|NN|2025|-|
-| [Partial Multi-label Learning with Label and Classifier Correlations](https://www.sciencedirect.com/science/article/pii/S0020025525002336)|IS|2025|-|
+| [Integrating Label Confidence-based Feature Selection for Partial Multi-label Learning](https://www.sciencedirect.com/science/article/pii/S003132032401032X)|PR|2025|-|
 | [Partial Multi-label Feature Selection Based on Label Distribution Learning](https://www.sciencedirect.com/science/article/pii/S0031320325001839)|PR|2025|-|
+| [Partial Multi-label Learning with Label and Classifier Correlations](https://www.sciencedirect.com/science/article/pii/S0020025525002336)|IS|2025|-|
