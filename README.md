@@ -94,3 +94,4 @@
 | [Partial Multi-label Learning via Label-specific Feature Corrections](https://palm.seu.edu.cn/zhangml/files/SCIS'24.pdf)|SCIS|2025|[Code](https://palm.seu.edu.cn/zhangml/files/PASE.rar)|
 | [Partial Multi-label Feature Selection with Feature Noise](https://www.sciencedirect.com/science/article/pii/S0031320324010616)|PR|2025|[Code](https://github.com/View5U/Partial-Multi-Label-Feature-Selection-with-Feature-Noise)|
 | [Task-augmented Cross-view Imputation Network for Partial Multi-view Incomplete Multi-label Classification](https://www.sciencedirect.com/science/article/pii/S089360802500228X)|NN|2025|-|
+| [Partial Multi-label Learning with Label and Classifier Correlations](https://www.sciencedirect.com/science/article/pii/S0020025525002336)|IS|2025|-|
