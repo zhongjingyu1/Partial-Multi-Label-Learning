@@ -56,7 +56,7 @@
 | [Towards Enabling Binary Decomposition for Partial Multi-Label Learning](https://ieeexplore.ieee.org/document/10168295) | TPAMI |2023  |[Code](https://palm.seu.edu.cn/zhangml/)|
 | [Dual Noise Elimination And Dynamic Label Correlation Guided Partial Multi-label Learning](https://ieeexplore.ieee.org/document/10336552/authors#authors) | TMM |2023  |-|
 | [Multi-View Partial Multi-Label Learning via Graph-Fusion-Based Label Enhancement](https://ieeexplore.ieee.org/document/9999508) | TKDE |2023  |-|
-| [ProPML: Probability Partial Multi-label Learning](https://ieeexplore.ieee.org/abstract/document/10302620) | DSAA |2023  |-|
+| [ProPML: Probability Partial Multi-label Learning](https://ieeexplore.ieee.org/abstract/document/10302620) | DSAA |2023  |[Code](https://github.com/gmum/propml/)|
 | [Prior Knowledge Regularized Self-Representation Model for Partial Multilabel Learning](https://ieeexplore.ieee.org/document/9533180) | TCYB |2023  |-|
 | [Partial Multi-Label Learning with Probabilistic Graphical Disambiguation](http://palm.seu.edu.cn/zhangml/files/NeurIPS'23c.pdf) | NeurIPS |2023  |[Code](https://palm.seu.edu.cn/zhangml/)|
 | [Partial multi-label feature selection via subspace optimization](https://www.sciencedirect.com/science/article/pii/S0020025523011416) | IS |2023  |-|
