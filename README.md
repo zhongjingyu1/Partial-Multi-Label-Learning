@@ -71,7 +71,7 @@
 | [A two-stage multi-view partial multi-label learning for enhanced disambiguation](https://www.sciencedirect.com/science/article/pii/S0950705124003150) | KBS |2024  |-|
 | [Partial multi-label learning via semi-supervised subspace collaboration](https://www.sciencedirect.com/science/article/pii/S0950705124000790) | KBS |2024  |-|
 | [Partial multi-label learning via robust feature selection and relevance fusion optimization](https://www.sciencedirect.com/science/article/pii/S0950705123011139) | KBS |2024  |-|
-| [Learning shared and non-redundant label-specific features for partial multi-label classification](https://www.sciencedirect.com/science/article/pii/S0020025523015025) | IS |2024  |-|
+| [Learning shared and non-redundant label-specific features for partial multi-label classification](https://www.sciencedirect.com/science/article/pii/S0020025523015025) | IS |2024  |[Code](https://github.com/AGuRu123/LSNRLS)|
 | [PML-ED: A method of partial multi-label learning by using encoder-decoder framework and exploring label correlation](https://www.sciencedirect.com/science/article/pii/S0020025524000781) | IS |2024  |-|
 | [Partial Multilabel Learning Using Noise-Tolerant Broad Learning System With Label Enhancement and Dimensionality Reduction](https://xplorestaging.ieee.org/document/10416802) | TNNLS |2024  |[Code](https://markwalton-tu.github.io/)|
 | [Few-shot partial multi-label learning with synthetic features network](https://link.springer.com/article/10.1007/s10115-023-01988-2) | KIS |2024  |-|
