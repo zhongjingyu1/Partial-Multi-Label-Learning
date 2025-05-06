@@ -14,7 +14,7 @@
 |  Title   | Venue  | Year| Code|
 |  ----  | ----  |----  |----  |
 |[Partial Multi-Label Learning with Label Distribution](https://aaai.org/papers/06510-partial-multi-label-learning-with-label-distribution/)|AAAI|2020|[Code](https://github.com/palm-ml/PML_LD)|
-| [Partial Multi-Label Learning via Probabilistic Graph Matching Mechanism](https://www.lamda.nju.edu.cn/conf/mla20/poster/07_17_paper.pdf) | KDD |2020  |-|
+| [Partial Multi-Label Learning via Probabilistic Graph Matching Mechanism](https://www.lamda.nju.edu.cn/conf/mla20/poster/07_17_paper.pdf) | KDD |2020  |[Code](https://gengyulyu.github.io/homepage/assets/codes/HALE.zip)|
 | [Partial Multi-Label Learning via Multi-Subspace Representation](https://www.ijcai.org/Proceedings/2020/0362.pdf) | IJCAI |2020  |[Code](https://github.com/SZU-AdvTech-2022/046-Partial-Multi-label-Learning-via-Multi-subspace-Representation)|
 | [Multi-View Partial Multi-label Learning with Graph-based Disambiguation](http://palm.seu.edu.cn/zhangml/files/AAAI'20b.pdf) | AAAI |2020  |[Code](https://palm.seu.edu.cn/zhangml/)|
 | [Partial Multi-label Learning using Label Compression](https://repository.kaust.edu.sa/server/api/core/bitstreams/eab71b27-5fb0-4ccb-b19f-ac8a393b377d/content) | ICDM |2020  |-|
