@@ -96,3 +96,4 @@
 | [Integrating Label Confidence-based Feature Selection for Partial Multi-label Learning](https://www.sciencedirect.com/science/article/pii/S003132032401032X)|PR|2025|-|
 | [Partial Multi-label Feature Selection Based on Label Distribution Learning](https://www.sciencedirect.com/science/article/pii/S0031320325001839)|PR|2025|-|
 | [Partial Multi-label Learning with Label and Classifier Correlations](https://www.sciencedirect.com/science/article/pii/S0020025525002336)|IS|2025|-|
+| [Calibrated Disambiguation for Partial Multi-label Learning](https://ojs.aaai.org/index.php/AAAI/article/view/34049)|AAAI|2025|[Code](https://github.com/lee-plus-plus/PML-CD)|
