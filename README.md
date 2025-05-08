@@ -58,7 +58,7 @@
 | [Multi-View Partial Multi-Label Learning via Graph-Fusion-Based Label Enhancement](https://ieeexplore.ieee.org/document/9999508) | TKDE |2023  |-|
 | [ProPML: Probability Partial Multi-label Learning](https://ieeexplore.ieee.org/abstract/document/10302620) | DSAA |2023  |[Code](https://github.com/gmum/propml/)|
 | [Prior Knowledge Regularized Self-Representation Model for Partial Multilabel Learning](https://ieeexplore.ieee.org/document/9533180) | TCYB |2023  |-|
-| [Partial Multi-Label Learning with Probabilistic Graphical Disambiguation](http://palm.seu.edu.cn/zhangml/files/NeurIPS'23c.pdf) | NeurIPS |2023  |[Code](https://palm.seu.edu.cn/zhangml/)|
+| [Partial Multi-Label Learning with Probabilistic Graphical Disambiguation](http://palm.seu.edu.cn/zhangml/files/NeurIPS'23c.pdf) | NeurIPS |2023  |[Code](https://palm.seu.edu.cn/zhangml/files/PARD.rar)|
 | [Partial multi-label feature selection via subspace optimization](https://www.sciencedirect.com/science/article/pii/S0020025523011416) | IS |2023  |-|
 | [Partial multi-label learning: exploration of binary ground-truth labels](https://ieeexplore.ieee.org/abstract/document/10219613/footnotes#footnotes) | ICME |2023  |-|
 | [Partial multi-label learning via three-way decision-based tri-training](https://www.sciencedirect.com/science/article/pii/S0950705123004938) | KBS |2023  |-|
