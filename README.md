@@ -64,7 +64,7 @@
 | [Partial multi-label learning via three-way decision-based tri-training](https://www.sciencedirect.com/science/article/pii/S0950705123004938) | KBS |2023  |-|
 | [Learning Reliable Representations for Incomplete Multi-View Partial Multi-Label Classification](https://www.semanticscholar.org/paper/Learning-Reliable-Representations-for-Incomplete-Liu-Wen/3b8104927237d2eee35fecee648b8606b165ea74) | Arxiv |2023  |-|
 | [Deep Partial Multi-Label Learning with Graph Disambiguation](https://www.ijcai.org/proceedings/2023/0479.pdf) | IJCAI |2023  |[Code](https://gengyulyu.github.io/homepage/assets/codes/PLAIN.zip)|
-| [Partial Multilabel Learning Using Fuzzy Neighborhood-Based Ball Clustering and Kernel Extreme Learning Machine](https://ieeexplore.ieee.org/document/9954218) | TFS |2023  |-|
+| [Partial Multilabel Learning Using Fuzzy Neighborhood-Based Ball Clustering and Kernel Extreme Learning Machine](https://ieeexplore.ieee.org/document/9954218) | TFUZZ |2023  |-|
 ### 2024
 |  Title   | Venue  | Year| Code|
 |  ----  | ----  |----  |----  |
