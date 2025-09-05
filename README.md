@@ -97,6 +97,7 @@
 | [Partial Multi-label Feature Selection Based on Label Distribution Learning](https://www.sciencedirect.com/science/article/pii/S0031320325001839)|PR|2025|-|
 | [Partial Multi-label Learning with Label and Classifier Correlations](https://www.sciencedirect.com/science/article/pii/S0020025525002336)|IS|2025|-|
 | [Calibrated Disambiguation for Partial Multi-label Learning](https://ojs.aaai.org/index.php/AAAI/article/view/34049)|AAAI|2025|[Code](https://github.com/lee-plus-plus/PML-CD)|
+| [Reconsidering Feature Structure Information and Latent Space Alignment in Partial Multi-label Feature Selection](https://arxiv.org/abs/2503.10115)|AAAI|2025|-|
 | [Revisiting Sparsity Constraint Under High-Rank Property in Partial Multi-Label Learning](https://arxiv.org/pdf/2505.20938)|arXiv|2025|[Code](https://github.com/cuiyidan0514/Schirn)|
 | [Partial Multi-View Incomplete Multi-Label Learning Network with Quality-Aware Representation Fusion](https://ieeexplore.ieee.org/abstract/document/11006148)|TCSVT|2025|[Code](https://github.com/longjianghhh/QARF)|
 | [Partial Multi-Label Learning via K-means Graph Transformer](https://webvpn.xaut.edu.cn/https/77726476706e69737468656265737421e7e056d234336155700b8ca891472636a6d29e640e/science/article/pii/S0950705125010627)|KBS|2025|-|
