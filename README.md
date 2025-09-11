@@ -82,7 +82,7 @@
 | [Partial multi-label feature selection via low-rank and sparse factorization with manifold learning](https://www.sciencedirect.com/science/article/pii/S0950705124005331)|KBS|2024|-|
 | [Attention-Induced Embedding Imputation for Incomplete Multi-View Partial Multi-Label Classification](https://ojs.aaai.org/index.php/AAAI/article/view/29293)|AAAI|2024|-|
 | [WPML3CP: Wasserstein Partial Multi-Label Learning with Dual Label Correlation Perspectives](https://www.ijcai.org/proceedings/2024/0495.pdf)|IJCAI|2024|
-| [UNM: A Universal Approach for Noisy Multi-Label Learning](https://ieeexplore.ieee.org/abstract/document/10460124)|TKDE|2024|-|
+| [UNM: A Universal Approach for Noisy Multi-Label Learning](https://ieeexplore.ieee.org/abstract/document/10460124)|TKDE|2024|[Code](https://pan.baidu.com/s/1q0tsUEmvLJ3RXjB9-V_WLQ?pwd=9fx1)|
 | [Partial Multi-View Multi-Label Classification via Semantic Invariance Learning and Prototype Modeling](https://openreview.net/forum?id=5ap1MmUqO6)|ICML|2024|-|
 | [Partial Multi-Label Learning via Exploiting Instance and Label Correlations](https://dl.acm.org/doi/full/10.1145/3700879)|TKDD|2024|-|
 | [Label Disambiguation-Based Feature Selection for Partial Multi-label Learning](https://link.springer.com/chapter/10.1007/978-3-031-78183-4_17)|ICPR|2024|-|
