@@ -102,4 +102,5 @@
 | [Partial Multi-Label Learning via K-means Graph Transformer](https://www.sciencedirect.com/science/article/abs/pii/S0950705125010627)|KBS|2025|-|
 | [Partial Multilabel Learning via Dynamic Fuzzy Aggregations of Multigranularity Features](https://ieeexplore.ieee.org/document/11150373)|TFUZZ|2025|-|
 | [Noise-Resistant Label Reconstruction Feature Selection for Partial Multi-Label Learning](https://www.ijcai.org/proceedings/2025/576)|IJCAI|2025|-|
+| [Pseudo-Label Reconstruction for Partial Multi-Label Learning](https://www.ijcai.org/proceedings/2025/0545.pdf)|IJCAI|2025|-|
 
