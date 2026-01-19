@@ -111,4 +111,4 @@
 |  Title   | Venue  | Year| Code|
 |  ----  | ----  |----  |----  |
 | [Learning embedded label-specific features for partial multi-label learning](https://www.sciencedirect.com/science/article/pii/S003132032500665X)|PR|2026|-|
-| [Non-aligned multi-view partial multi-label learning via factor group-sparse regularization](https://www.sciencedirect.com/science/article/pii/S0925231225029595)|PR|2026|-|
+| [Non-aligned multi-view partial multi-label learning via factor group-sparse regularization](https://www.sciencedirect.com/science/article/pii/S0925231225029595)|Neurocomputing|2026|-|
