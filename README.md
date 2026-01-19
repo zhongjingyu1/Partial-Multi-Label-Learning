@@ -71,6 +71,7 @@
 | [Partial multi-label learning via semi-supervised subspace collaboration](https://www.sciencedirect.com/science/article/pii/S0950705124000790) | KBS |2024  |-|
 | [Partial multi-label learning via robust feature selection and relevance fusion optimization](https://www.sciencedirect.com/science/article/pii/S0950705123011139) | KBS |2024  |-|
 | [Learning shared and non-redundant label-specific features for partial multi-label classification](https://www.sciencedirect.com/science/article/pii/S0020025523015025) | IS |2024  |[Code](https://github.com/AGuRu123/LSNRLS)|
+| [Multi-scale locality preserving projection for partial multi-view incomplete multi-label learning](https://www.sciencedirect.com/science/article/pii/S0893608024006725) | NN |2024  |-|
 | [PML-ED: A method of partial multi-label learning by using encoder-decoder framework and exploring label correlation](https://www.sciencedirect.com/science/article/pii/S0020025524000781) | IS |2024  |-|
 | [Partial Multilabel Learning Using Noise-Tolerant Broad Learning System With Label Enhancement and Dimensionality Reduction](https://xplorestaging.ieee.org/document/10416802) | TNNLS |2024  |[Code](https://markwalton-tu.github.io/)|
 | [Few-shot partial multi-label learning with synthetic features network](https://link.springer.com/article/10.1007/s10115-023-01988-2) | KIS |2024  |-|
@@ -95,6 +96,7 @@
 | [Integrating Label Confidence-based Feature Selection for Partial Multi-label Learning](https://www.sciencedirect.com/science/article/pii/S003132032401032X)|PR|2025|-|
 | [Partial Multi-label Feature Selection Based on Label Distribution Learning](https://www.sciencedirect.com/science/article/pii/S0031320325001839)|PR|2025|-|
 | [Partial Multi-label Learning with Label and Classifier Correlations](https://www.sciencedirect.com/science/article/pii/S0020025525002336)|IS|2025|-|
+| [Few-shot partial multi-label learning with credible non-candidate label](https://www.sciencedirect.com/science/article/pii/S0020025525006176)|IS|2025|-|
 | [Calibrated Disambiguation for Partial Multi-label Learning](https://ojs.aaai.org/index.php/AAAI/article/view/34049)|AAAI|2025|[Code](https://github.com/lee-plus-plus/PML-CD)|
 | [Reconsidering Feature Structure Information and Latent Space Alignment in Partial Multi-label Feature Selection](https://arxiv.org/abs/2503.10115)|AAAI|2025|-|
 | [Revisiting Sparsity Constraint Under High-Rank Property in Partial Multi-Label Learning](https://arxiv.org/pdf/2505.20938)|arXiv|2025|[Code](https://github.com/cuiyidan0514/Schirn)|
@@ -106,6 +108,7 @@
 | [Exploring Partial Multi-Label Learning via Integrating Semantic Co-occurrence Knowledge](https://arxiv.org/pdf/2507.05992)|arXiv|2025|[Code](https://github.com/wuliwuxin/SCINet)|
 | [Correlation-Induced Negative Suppression Disambiguation Loss for Partial Multi-label Image Classification](https://ieeexplore.ieee.org/document/11230570)|TCSVT|2025|[Code](https://github.com/zhongjingyu1/CoNeS)|
 | [Multi-View Partial Multi-Label Learning via Class Activation Specific Features Collaborative Learning](https://ieeexplore.ieee.org/abstract/document/11244213)|TETC|2025|-|
+
 
 ### 2026
 |  Title   | Venue  | Year| Code|
