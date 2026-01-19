@@ -105,3 +105,4 @@
 | [Pseudo-Label Reconstruction for Partial Multi-Label Learning](https://www.ijcai.org/proceedings/2025/0545.pdf)|IJCAI|2025|-|
 | [Exploring Partial Multi-Label Learning via Integrating Semantic Co-occurrence Knowledge](https://arxiv.org/pdf/2507.05992)|arXiv|2025|[Code](https://github.com/wuliwuxin/SCINet)|
 | [Correlation-Induced Negative Suppression Disambiguation Loss for Partial Multi-label Image Classification](https://ieeexplore.ieee.org/document/11230570)|TCSVT|2025|[Code](https://github.com/zhongjingyu1/CoNeS)|
+| [Multi-View Partial Multi-Label Learning via Class Activation Specific Features Collaborative Learning](https://ieeexplore.ieee.org/abstract/document/11244213)|TETC|2025|-|
