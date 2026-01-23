@@ -116,3 +116,4 @@
 | [Learning embedded label-specific features for partial multi-label learning](https://www.sciencedirect.com/science/article/pii/S003132032500665X)|PR|2026|-|
 | [Non-aligned multi-view partial multi-label learning via factor group-sparse regularization](https://www.sciencedirect.com/science/article/pii/S0925231225029595)|Neurocomputing|2026|-|
 | [Partial Multiview Incomplete Multilabel Learning via Uncertainty-Driven Reliable Dynamic Fusion](https://ieeexplore.ieee.org/document/11143910)|TPAMI|2026|[Code](https://github.com/longjianghhh/URDF)|
+| [Partial multi-label learning with guided feature tree and high-order label graph](https://www.sciencedirect.com/science/article/abs/pii/S0957417426001429)|ESWA|2026|-|
