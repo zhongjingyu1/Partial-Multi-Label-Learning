@@ -117,3 +117,4 @@
 | [Non-aligned multi-view partial multi-label learning via factor group-sparse regularization](https://www.sciencedirect.com/science/article/pii/S0925231225029595)|Neurocomputing|2026|-|
 | [Partial Multiview Incomplete Multilabel Learning via Uncertainty-Driven Reliable Dynamic Fusion](https://ieeexplore.ieee.org/document/11143910)|TPAMI|2026|[Code](https://github.com/longjianghhh/URDF)|
 | [Partial multi-label learning with guided feature tree and high-order label graph](https://www.sciencedirect.com/science/article/abs/pii/S0957417426001429)|ESWA|2026|-|
+| [From Ambiguity to Action: A POMDP Perspective on Partial Multi-Label Ambiguity and Its Horizon-One Resolution](https://arxiv.org/pdf/2602.04255)|arXiv|2026|-|
