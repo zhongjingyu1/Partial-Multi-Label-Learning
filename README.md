@@ -120,3 +120,6 @@
 | [From Ambiguity to Action: A POMDP Perspective on Partial Multi-Label Ambiguity and Its Horizon-One Resolution](https://arxiv.org/pdf/2602.04255)|arXiv|2026|-|
 | [Dual-space guided global-local disambiguation for partial multi-label feature selection](https://www.sciencedirect.com/science/article/pii/S0925231226005175)|Neurocomputing|2026|-|
 | [FastGRAIL: Anchor-Graph-based Fast Adaptive Partial Multi-Label Learning with Label Correlations](https://www.sciencedirect.com/science/article/pii/S0031320326004231)|PR|2026|-|
+| [Dual Label Association Recovery for Partial Multi-Label Learning](https://ieeexplore.ieee.org/abstract/document/11415378)|TMM|2026|-|
+| [Correlative Fusion-based Multi-instance Partial Multi-label Learning](https://ieeexplore.ieee.org/abstract/document/11417224)|TMM|2026|-|
+
