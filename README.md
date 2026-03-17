@@ -119,3 +119,4 @@
 | [Partial multi-label learning with guided feature tree and high-order label graph](https://www.sciencedirect.com/science/article/abs/pii/S0957417426001429)|ESWA|2026|-|
 | [From Ambiguity to Action: A POMDP Perspective on Partial Multi-Label Ambiguity and Its Horizon-One Resolution](https://arxiv.org/pdf/2602.04255)|arXiv|2026|-|
 | [Dual-space guided global-local disambiguation for partial multi-label feature selection](https://www.sciencedirect.com/science/article/pii/S0925231226005175)|Neurocomputing|2026|-|
+| [FastGRAIL: Anchor-Graph-based Fast Adaptive Partial Multi-Label Learning with Label Correlations](https://www.sciencedirect.com/science/article/pii/S0031320326004231)|PR|2026|-|
