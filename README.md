@@ -122,4 +122,5 @@
 | [FastGRAIL: Anchor-Graph-based Fast Adaptive Partial Multi-Label Learning with Label Correlations](https://www.sciencedirect.com/science/article/pii/S0031320326004231)|PR|2026|-|
 | [Dual Label Association Recovery for Partial Multi-Label Learning](https://ieeexplore.ieee.org/abstract/document/11415378)|TMM|2026|-|
 | [Correlative Fusion-based Multi-instance Partial Multi-label Learning](https://ieeexplore.ieee.org/abstract/document/11417224)|TMM|2026|-|
-
+| [Partial multi-label feature selection via dual-space combination and disambiguation strategy fusion](https://www.sciencedirect.com/science/article/pii/S0031320326005030?via%3Dihub)|PR|2026|-|
+| [Partial Multi-Label Learning with Discriminative Feature Subspace and Dynamic Label Correlation](https://www.sciencedirect.com/science/article/pii/S0031320326005091?via%3Dihub)|PR|2026|-|
