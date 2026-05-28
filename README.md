@@ -125,3 +125,4 @@
 | [Partial multi-label feature selection via dual-space combination and disambiguation strategy fusion](https://www.sciencedirect.com/science/article/pii/S0031320326005030?via%3Dihub)|PR|2026|-|
 | [Partial Multi-Label Learning with Discriminative Feature Subspace and Dynamic Label Correlation](https://www.sciencedirect.com/science/article/pii/S0031320326005091?via%3Dihub)|PR|2026|-|
 | [Contrastive flow with controllable augmentation for partial multi-label learning](https://www.sciencedirect.com/science/article/pii/S0031320326009246?via%3Dihub)|PR|2026|-|
+| [Weighted Feature Graph with Adaptive Label Correlation for Partial Multi-Label Learning](https://ieeexplore.ieee.org/document/11457774)|TMM|2026|-|
