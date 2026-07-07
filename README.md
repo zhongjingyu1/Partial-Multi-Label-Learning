@@ -128,3 +128,4 @@
 | [Weighted Feature Graph with Adaptive Label Correlation for Partial Multi-Label Learning](https://ieeexplore.ieee.org/document/11457774)|TMM|2026|[Code](https://github.com/zhenzhenSun-FZU/PML-WFGALC)|
 | [Noise correction and distribution fine-tuning for long-tailed partial multi-label learning](https://www.sciencedirect.com/science/article/pii/S0031320326010617)|PR|2026|[Code](https://github.com/zhongjingyu1/NDLP)|
 | [Partial multi-label feature selection via feature-label bidirectional association with adaptive label graph diffusion](https://www.sciencedirect.com/science/article/pii/S0925231226016504?via%3Dihub)|Neurocomputing|2026|-|
+| [Partial multi-label learning with feature selection by dual guidance](https://www.sciencedirect.com/science/article/abs/pii/S1568494626013542)|ASC|2026|-|
