@@ -105,7 +105,6 @@
 | [Partial Multilabel Learning via Dynamic Fuzzy Aggregations of Multigranularity Features](https://ieeexplore.ieee.org/document/11150373)|TFUZZ|2025|-|
 | [Noise-Resistant Label Reconstruction Feature Selection for Partial Multi-Label Learning](https://www.ijcai.org/proceedings/2025/576)|IJCAI|2025|-|
 | [Pseudo-Label Reconstruction for Partial Multi-Label Learning](https://www.ijcai.org/proceedings/2025/0545.pdf)|IJCAI|2025|-|
-| [Exploring Partial Multi-Label Learning via Integrating Semantic Co-occurrence Knowledge](https://arxiv.org/pdf/2507.05992)|arXiv|2025|[Code](https://github.com/wuliwuxin/SCINet)|
 | [Correlation-Induced Negative Suppression Disambiguation Loss for Partial Multi-label Image Classification](https://ieeexplore.ieee.org/document/11230570)|TCSVT|2025|[Code](https://github.com/zhongjingyu1/CoNeS)|
 | [Multi-View Partial Multi-Label Learning via Class Activation Specific Features Collaborative Learning](https://ieeexplore.ieee.org/abstract/document/11244213)|TETC|2025|-|
 | [Confidence-Aware With Prototype Alignment for Partial Multi-label Learning](https://openreview.net/pdf?id=Hp78SvTU2N)/[supp.](https://openreview.net/attachment?id=Hp78SvTU2N&name=supplementary_material)|NeurIPS|2025|-|
@@ -134,3 +133,4 @@
 | [Exploring Partial Multi-Label Learning via Integrating Semantic Co-occurrence Knowledge](https://ieeexplore.ieee.org/document/11570036)|TMM|2026|-|
 | [Embracing sparse features: Partial Multi-Label Learning via noisy label identification](https://www.sciencedirect.com/science/article/abs/pii/S0031320326007211)|PR|2026|-|
 | [Dual feature-driven approach for partial multi-label learning](https://www.sciencedirect.com/science/article/pii/S0031320326013981?via%3Dihub)|PR|2026|-|
+| [Exploring Partial Multi-Label Learning via Integrating Semantic Co-occurrence Knowledge](https://wuliwuxin.github.io/SCINetProject/)|TMM|2026|[Code](https://github.com/wuliwuxin/SCINet)|
