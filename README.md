@@ -130,7 +130,6 @@
 | [Partial multi-label learning via transformer to discover discriminative label embeddings](https://www.sciencedirect.com/science/article/abs/pii/S092523122600915X)|Neurocomputing|2026|-|
 | [Partial multi-label learning with feature selection by dual guidance](https://www.sciencedirect.com/science/article/abs/pii/S1568494626013542)|ASC|2026|-|
 | [Partial Multi-label Learning with Decorrelated Label Encoding and Class Prototype Decoding](https://ieeexplore.ieee.org/document/11594420)|TMM|2026|-|
-| [Exploring Partial Multi-Label Learning via Integrating Semantic Co-occurrence Knowledge](https://ieeexplore.ieee.org/document/11570036)|TMM|2026|-|
 | [Embracing sparse features: Partial Multi-Label Learning via noisy label identification](https://www.sciencedirect.com/science/article/abs/pii/S0031320326007211)|PR|2026|-|
 | [Dual feature-driven approach for partial multi-label learning](https://www.sciencedirect.com/science/article/pii/S0031320326013981?via%3Dihub)|PR|2026|-|
 | [Exploring Partial Multi-Label Learning via Integrating Semantic Co-occurrence Knowledge](https://wuliwuxin.github.io/SCINetProject/)|TMM|2026|[Code](https://github.com/wuliwuxin/SCINet)|
