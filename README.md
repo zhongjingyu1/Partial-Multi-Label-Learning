@@ -45,7 +45,6 @@
 | [CCMN: A General Framework for Learning With Class-Conditional Multi-Label Noise](https://ieeexplore.ieee.org/document/9674931) | TPAMI |2022  |[Code](https://xiemk.github.io/)|
 | [Semi-supervised partial multi-label classification via consistency learning](https://www.sciencedirect.com/science/article/pii/S003132032200320X) | PR |2022  |-|
 | [Partial Multi-Label Learning via Large Margin Nearest Neighbour Embeddings](https://ojs.aaai.org/index.php/AAAI/article/download/20628/version/18925/20387) | AAAI |2022  |-|
-| [A Deep Model for Partial Multi-label Image Classification with Curriculum Based Disambiguation](https://link.springer.com/article/10.1007/s11633-023-1439-3) | MIR |2022  |[Code](https://github.com/xiemk/PML-CDCR)|
 ### 2023
 |  Title   | Venue  | Year| Code|
 |  ----  | ----  |----  |----  |
@@ -67,6 +66,7 @@
 ### 2024
 |  Title   | Venue  | Year| Code|
 |  ----  | ----  |----  |----  |
+| [A Deep Model for Partial Multi-label Image Classification with Curriculum Based Disambiguation](https://link.springer.com/article/10.1007/s11633-023-1439-3) | MIR |2022  |[Code](https://github.com/xiemk/PML-CDCR)|
 | [A two-stage multi-view partial multi-label learning for enhanced disambiguation](https://www.sciencedirect.com/science/article/pii/S0950705124003150) | KBS |2024  |-|
 | [Partial multi-label learning via semi-supervised subspace collaboration](https://www.sciencedirect.com/science/article/pii/S0950705124000790) | KBS |2024  |-|
 | [Partial multi-label learning via robust feature selection and relevance fusion optimization](https://www.sciencedirect.com/science/article/pii/S0950705123011139) | KBS |2024  |-|
