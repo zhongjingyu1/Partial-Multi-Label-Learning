@@ -133,3 +133,5 @@
 | [Dual feature-driven approach for partial multi-label learning](https://www.sciencedirect.com/science/article/pii/S0031320326013981?via%3Dihub)|PR|2026|-|
 | [Exploring Partial Multi-Label Learning via Integrating Semantic Co-occurrence Knowledge](https://wuliwuxin.github.io/SCINetProject/)|TMM|2026|[Code](https://github.com/wuliwuxin/SCINet)|
 | [Revisiting Sparsity Constraint Under High-Rank Property in Partial Multi-Label Learning](https://openaccess.thecvf.com/content/CVPR2026/papers/Si_Revisiting_Sparsity_Constraint_Under_High-Rank_Property_in_Partial_Multi-Label_Learning_CVPR_2026_paper.pdf)|CVPR|2026|[Code](https://github.com/cuiyidan0514/Schirn)|
+| [Multi-Domain Feature Integration Based Trusted Partial Multi-View Incomplete Multi-Label Learning](https://ieeexplore.ieee.org/abstract/document/11516312)|TPAMI|2026|-|
+
