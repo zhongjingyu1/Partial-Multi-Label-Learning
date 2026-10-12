@@ -135,4 +135,10 @@
 | [Revisiting Sparsity Constraint Under High-Rank Property in Partial Multi-Label Learning](https://openaccess.thecvf.com/content/CVPR2026/papers/Si_Revisiting_Sparsity_Constraint_Under_High-Rank_Property_in_Partial_Multi-Label_Learning_CVPR_2026_paper.pdf)|CVPR|2026|[Code](https://github.com/cuiyidan0514/Schirn)|
 | [Multi-Domain Feature Integration Based Trusted Partial Multi-View Incomplete Multi-Label Learning](https://ieeexplore.ieee.org/abstract/document/11516312)|TPAMI|2026|-|
 | [Partial Multi-Label Learning via Competitive Disambiguation](https://ieeexplore.ieee.org/abstract/document/11617350)|TMM|2026|-|
-| [Fastgrail: Anchor-graph-based fast adaptive partial multi-label learning with label correlations](https://www.sciencedirect.com/science/article/pii/S0031320326004231)|PR|2026|[Code](https://github.com/fulfi11ing/FastGRAIL_PMLL)|
+| [Label Confidence Recovery with High-order Label Correlation in Partial Multi-label Learning](https://www.ijcai.org/proceedings/2026/472) | IJCAI | 2026 | - |
+| [Reliability-enhanced partial multi-label feature selection based on neighborhood rough set](https://doi.org/10.1016/j.patcog.2026.113762) | PR | 2026 | - |
+| [Partial multi-label learning via feature manifold learning](https://www.sciencedirect.com/science/article/pii/S0020025526005475) | IS | 2026 | - |
+| [Partial multi-label learning via adaptive bipartite graph embedding](https://www.sciencedirect.com/science/article/pii/S0925231226018874) | Neurocomputing | 2026 | - |
+| [Partial multi-label green learning with global attention disambiguation](https://link.springer.com/article/10.1007/s10462-026-11685-5) | AIR | 2026 | - |
+| [Incomplete multi-view partial multi-label learning via hierarchical semantic synergy](https://www.sciencedirect.com/science/article/pii/S0957417426008390) | ESWA | 2026 | - |
+| [Variational inference framework for partial multi-view multi-label representation learning](https://www.sciencedirect.com/science/article/pii/S0031320326007077) | PR | 2026 | - |
