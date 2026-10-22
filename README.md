@@ -142,3 +142,4 @@
 | [Partial multi-label green learning with global attention disambiguation](https://link.springer.com/article/10.1007/s10462-026-11685-5) | AIR | 2026 | - |
 | [Incomplete multi-view partial multi-label learning via hierarchical semantic synergy](https://www.sciencedirect.com/science/article/pii/S0957417426008390) | ESWA | 2026 | - |
 | [Variational inference framework for partial multi-view multi-label representation learning](https://www.sciencedirect.com/science/article/pii/S0031320326007077) | PR | 2026 | - |
+| [Noise-Resistant Candidate Label Generation Decomposition for Instance-Dependent Partial Multilabel Learning](https://ieeexplore.ieee.org/document/11744588) | TNNLS | 2026 | - |
