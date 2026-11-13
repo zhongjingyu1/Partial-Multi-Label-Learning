@@ -143,3 +143,4 @@
 | [Incomplete multi-view partial multi-label learning via hierarchical semantic synergy](https://www.sciencedirect.com/science/article/pii/S0957417426008390) | ESWA | 2026 | - |
 | [Variational inference framework for partial multi-view multi-label representation learning](https://www.sciencedirect.com/science/article/pii/S0031320326007077) | PR | 2026 | - |
 | [Noise-Resistant Candidate Label Generation Decomposition for Instance-Dependent Partial Multilabel Learning](https://ieeexplore.ieee.org/document/11744588) | TNNLS | 2026 | - |
+| [PML-DDT: Dual Dynamic Thresholds for Partial Multi-label Learning](https://ieeexplore.ieee.org/document/11710310)|TMM|2026|[Code](https://github.com/w-g-d/PML-DDT)|
